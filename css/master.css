@@ -751,7 +751,7 @@ margin: 0;
 /* Start Contact Us */
 .contact {
     min-height: 600px;
-    background-image:url("./imgs/Map.png");
+    background-image:url("../imgs/Map.png");
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -866,6 +866,7 @@ margin: 0;
     }
 }
 /* Start Grid System */
+
 
 
 
